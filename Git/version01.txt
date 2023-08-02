@@ -1,4 +1,8 @@
-This is the bug fix in development branch
+ This is the bug fix in development branch
+
+ Added feature2 in development branch
+
+ This feature will gadbad everything from now.
 
 This is gadbad code
 
